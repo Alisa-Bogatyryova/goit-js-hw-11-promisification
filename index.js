@@ -1,3 +1,3 @@
-import './js/task-1.js';
-import './js/task-2.js';
-import './js/task-3.js';
+import '/task_1.js';
+import '/task_2.js';
+import '/task_3.js';
